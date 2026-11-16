@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@tensorflow/tfjs": "4.22.0",
-    "axios": "^1.21.0",
+    "axios": "^1.21.1",
     "fft.js": "4.0.4",
     "qrcode": "1.5.4",
     "react": "^19.3.1",
@@ -19,9 +19,9 @@
   "devDependencies": {
     "@tensorflow/tfjs-tflite": "^0.0.1-alpha.10",
     "@types/qrcode": "^1.5.6",
-    "@vitejs/plugin-react": "^6.2.1",
-    "serve": "^14.2.6",
-    "vite": "^8.3.6"
+    "@vitejs/plugin-react": "^6.3.0",
+    "serve": "^14.2.7",
+    "vite": "^8.3.8"
   },
   "engines": {
     "node": ">=20.19.0 || >=22.12.0"
